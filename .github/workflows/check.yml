@@ -1,0 +1,38 @@
+name: Vérif logements IDF
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # toutes les 10 min (GitHub peut décaler de quelques minutes)
+  workflow_dispatch: {}       # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: logement-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vérifier Crous + ARPEJ
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MAX_RENT: ${{ vars.MAX_RENT }}
+          CROUS_MODES: ${{ vars.CROUS_MODES }}
+          ARPEJ_SKIP_RESTRICTED: ${{ vars.ARPEJ_SKIP_RESTRICTED }}
+        run: python notifier.py
+      - name: Sauvegarder l'état
+        run: |
+          git config user.name "logement-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -f state.json   # forcé : state.json est dans .gitignore pour les copies locales
+          git diff --cached --quiet || (git commit -m "maj état logements" && git push)

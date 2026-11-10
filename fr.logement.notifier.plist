@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Option Mac : lance notifier.py toutes les 10 min.
+     Remplace CHEMIN_DOSSIER et TON_TOPIC, copie dans ~/Library/LaunchAgents/
+     puis : launchctl load ~/Library/LaunchAgents/fr.logement.notifier.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>fr.logement.notifier</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>CHEMIN_DOSSIER/notifier.py</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>NTFY_TOPIC</key><string>TON_TOPIC</string>
+  </dict>
+  <key>StartInterval</key><integer>600</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/tmp/logement-notifier.log</string>
+  <key>StandardErrorPath</key><string>/tmp/logement-notifier.log</string>
+</dict>
+</plist>
