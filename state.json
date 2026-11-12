@@ -39,19 +39,6 @@
    "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
    "warning": null
   },
-  "arpej:48799": {
-   "address": "2 chemin Tortu 93360 Neuilly-Plaisance",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 596 €",
-   "region": "ARPEJ Neuilly-Plaisance",
-   "residence": "Résidence Simone Veil",
-   "source": "ARPEJ",
-   "title": "Résidence Simone Veil",
-   "url": "https://www.arpej.fr/fr/residence/simone-veil-residence-etudiante-neuilly-plaisance/",
-   "warning": null
-  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -90,19 +77,6 @@
    "title": "Résidence Louis Blériot",
    "url": "https://www.arpej.fr/fr/residence/etudiante-suresnes/",
    "warning": null
-  },
-  "crous:10": {
-   "address": "106 rue Bajot 77550 Moissy Cramayel",
-   "count": 1,
-   "details": "15 m², colocation",
-   "kind": "T3 · 15 m², colocation",
-   "price": "275 €",
-   "region": "Crous Créteil",
-   "residence": "Moissy Cramayel - Alfred Sisley",
-   "source": "Crous",
-   "title": "T3 — Moissy Cramayel - Alfred Sisley",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/10",
-   "year": "2026/2027"
   },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
@@ -196,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 15:01:10"
+ "updated": "2026-11-12 15:10:42"
 }
