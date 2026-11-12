@@ -52,19 +52,6 @@
    "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
    "warning": null
   },
-  "arpej:48933": {
-   "address": "2, rue de la Plaine 77240 Cesson",
-   "count": 6,
-   "details": "6 chambre(s) dispo",
-   "kind": "6 chambre(s) dispo",
-   "price": "dès 465 €",
-   "region": "ARPEJ Cesson",
-   "residence": "Résidence Jean Zay (partie Pour Etudiants)",
-   "source": "ARPEJ",
-   "title": "Résidence Jean Zay (partie Pour Etudiants)",
-   "url": "https://www.arpej.fr/fr/residence/jean-zayresidence-etudiante-cesson/",
-   "warning": null
-  },
   "arpej:54165": {
    "address": "12 rue Pasteur 92150 Suresnes",
    "count": 1,
@@ -170,5 +157,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 11:50:43"
+ "updated": "2026-11-12 12:01:08"
 }
