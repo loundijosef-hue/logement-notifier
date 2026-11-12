@@ -26,6 +26,19 @@
    "url": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
    "warning": null
   },
+  "arpej:48743": {
+   "address": "35, rue Michelet 94460 Valenton",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 588 €",
+   "region": "ARPEJ Valenton",
+   "residence": "Résidence Val Pompadour",
+   "source": "ARPEJ",
+   "title": "Résidence Val Pompadour",
+   "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
+   "warning": null
+  },
   "arpej:48799": {
    "address": "2 chemin Tortu 93360 Neuilly-Plaisance",
    "count": 1,
@@ -170,5 +183,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 14:30:56"
+ "updated": "2026-11-12 14:40:45"
 }
