@@ -1,5 +1,18 @@
 {
  "seen": {
+  "arpej:48906": {
+   "address": "1, allée des Galants courts 91000 Evry-Courcouronnes",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 493 €",
+   "region": "ARPEJ Evry-Courcouronnes",
+   "residence": "Résidence Saint-Exupéry",
+   "source": "ARPEJ",
+   "title": "Résidence Saint-Exupéry",
+   "url": "https://www.arpej.fr/fr/residence/saint-exupery-residence-jeunes-actifs-evry-courcouronnes/",
+   "warning": null
+  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -41,9 +54,9 @@
   },
   "arpej:54165": {
    "address": "12 rue Pasteur 92150 Suresnes",
-   "count": 3,
-   "details": "3 chambre(s) dispo",
-   "kind": "3 chambre(s) dispo",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
    "price": "dès 602 €",
    "region": "ARPEJ Suresnes",
    "residence": "Résidence Louis Blériot",
@@ -144,5 +157,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 04:09:27"
+ "updated": "2026-11-12 09:39:44"
 }
