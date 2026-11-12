@@ -26,19 +26,6 @@
    "url": "https://www.arpej.fr/fr/residence/simone-veil-residence-etudiante-neuilly-plaisance/",
    "warning": null
   },
-  "arpej:48906": {
-   "address": "1, allée des Galants courts 91000 Evry-Courcouronnes",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 493 €",
-   "region": "ARPEJ Evry-Courcouronnes",
-   "residence": "Résidence Saint-Exupéry",
-   "source": "ARPEJ",
-   "title": "Résidence Saint-Exupéry",
-   "url": "https://www.arpej.fr/fr/residence/saint-exupery-residence-jeunes-actifs-evry-courcouronnes/",
-   "warning": null
-  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -183,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 11:10:42"
+ "updated": "2026-11-12 11:20:43"
 }
