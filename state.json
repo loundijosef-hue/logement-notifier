@@ -13,6 +13,19 @@
    "url": "https://www.arpej.fr/fr/residence/alfred-sisley-residence-etudiante-le-port-marly/",
    "warning": null
   },
+  "arpej:48629": {
+   "address": "227, rue de Brément 93130 Noisy-le-Sec",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 481 €",
+   "region": "ARPEJ Noisy-le-Sec",
+   "residence": "Résidence Jean-François Deniau",
+   "source": "ARPEJ",
+   "title": "Résidence Jean-François Deniau",
+   "url": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
+   "warning": null
+  },
   "arpej:48799": {
    "address": "2 chemin Tortu 93360 Neuilly-Plaisance",
    "count": 1,
@@ -157,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 12:20:47"
+ "updated": "2026-11-12 12:30:59"
 }
