@@ -1,5 +1,18 @@
 {
  "seen": {
+  "arpej:48799": {
+   "address": "2 chemin Tortu 93360 Neuilly-Plaisance",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 596 €",
+   "region": "ARPEJ Neuilly-Plaisance",
+   "residence": "Résidence Simone Veil",
+   "source": "ARPEJ",
+   "title": "Résidence Simone Veil",
+   "url": "https://www.arpej.fr/fr/residence/simone-veil-residence-etudiante-neuilly-plaisance/",
+   "warning": null
+  },
   "arpej:48906": {
    "address": "1, allée des Galants courts 91000 Evry-Courcouronnes",
    "count": 1,
@@ -157,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 10:10:41"
+ "updated": "2026-11-12 10:20:48"
 }
