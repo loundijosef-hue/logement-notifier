@@ -65,18 +65,18 @@
    "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
    "warning": null
   },
-  "arpej:54165": {
-   "address": "12 rue Pasteur 92150 Suresnes",
+  "crous:1583": {
+   "address": "25/27 rue des Bas-Bourgs 28000 CHARTRES",
    "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 602 €",
-   "region": "ARPEJ Suresnes",
-   "residence": "Résidence Louis Blériot",
-   "source": "ARPEJ",
-   "title": "Résidence Louis Blériot",
-   "url": "https://www.arpej.fr/fr/residence/etudiante-suresnes/",
-   "warning": null
+   "details": "32 m², colocation",
+   "kind": "T1 bis 32m2 · 32 m², colocation",
+   "price": "246 €",
+   "region": "Crous ORLEANS-TOURS",
+   "residence": "JEAN ZAY",
+   "source": "Crous",
+   "title": "T1 bis 32m2 — JEAN ZAY",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1583",
+   "year": "2026/2027"
   },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
@@ -170,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 17:20:42"
+ "updated": "2026-11-12 17:30:58"
 }
