@@ -39,19 +39,6 @@
    "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
    "warning": null
   },
-  "arpej:48920": {
-   "address": "9, place Jean Jaurès 93100 Montreuil",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 556 €",
-   "region": "ARPEJ Montreuil",
-   "residence": "Résidence Frida Kahlo",
-   "source": "ARPEJ",
-   "title": "Résidence Frida Kahlo",
-   "url": "https://www.arpej.fr/fr/residence/frida-kahlo-residence-etudiante-montreuil/",
-   "warning": null
-  },
   "arpej:48924": {
    "address": "2, rue de la Plaine 77240 Cesson",
    "count": 1,
@@ -170,5 +157,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 17:50:41"
+ "updated": "2026-11-12 18:01:12"
 }
