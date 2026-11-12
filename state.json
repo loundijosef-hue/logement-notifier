@@ -91,6 +91,19 @@
    "url": "https://www.arpej.fr/fr/residence/etudiante-suresnes/",
    "warning": null
   },
+  "crous:10": {
+   "address": "106 rue Bajot 77550 Moissy Cramayel",
+   "count": 1,
+   "details": "15 m², colocation",
+   "kind": "T3 · 15 m², colocation",
+   "price": "275 €",
+   "region": "Crous Créteil",
+   "residence": "Moissy Cramayel - Alfred Sisley",
+   "source": "Crous",
+   "title": "T3 — Moissy Cramayel - Alfred Sisley",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/10",
+   "year": "2026/2027"
+  },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
    "count": 1,
@@ -183,5 +196,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-12 14:50:42"
+ "updated": "2026-11-12 15:01:10"
 }
