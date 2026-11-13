@@ -1,5 +1,18 @@
 {
  "seen": {
+  "arpej:48350": {
+   "address": "4, avenue Michel Debré 93360 Neuilly-Plaisance",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 527 €",
+   "region": "ARPEJ Neuilly-Plaisance",
+   "residence": "Résidence André Devambez",
+   "source": "ARPEJ",
+   "title": "Résidence André Devambez",
+   "url": "https://www.arpej.fr/fr/residence/andre-devambez-residence-etudiante-neuilly-plaisance/",
+   "warning": null
+  },
   "arpej:48584": {
    "address": "39, avenue de Saint-Germain 78560 Le Port-Marly",
    "count": 1,
@@ -144,5 +157,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 08:40:47"
+ "updated": "2026-11-13 08:50:42"
 }
