@@ -39,6 +39,19 @@
    "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
    "warning": null
   },
+  "arpej:48718": {
+   "address": "2, carrefour du Général de Gaulle 94380 Bonneuil-sur-Marne",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 431 €",
+   "region": "ARPEJ Bonneuil-sur-Marne",
+   "residence": "Résidence Pierre Bourdieu",
+   "source": "ARPEJ",
+   "title": "Résidence Pierre Bourdieu",
+   "url": "https://www.arpej.fr/fr/residence/pierre-bourdieu-residence-etudiante-bonneuil-sur-marne/",
+   "warning": null
+  },
   "arpej:48922": {
    "address": "80, avenue de la République 93300 Aubervilliers",
    "count": 1,
@@ -66,5 +79,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 15:40:54"
+ "updated": "2026-11-13 15:50:48"
 }
