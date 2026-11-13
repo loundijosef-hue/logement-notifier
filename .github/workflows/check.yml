@@ -26,6 +26,7 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DEPTS: ${{ vars.DEPTS }}
           MAX_RENT: ${{ vars.MAX_RENT }}
           CROUS_MODES: ${{ vars.CROUS_MODES }}
           ARPEJ_SKIP_RESTRICTED: ${{ vars.ARPEJ_SKIP_RESTRICTED }}

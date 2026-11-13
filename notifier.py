@@ -15,6 +15,7 @@ Notifications (configurer au moins une, via variables d'environnement) :
   TELEGRAM_BOT_TOKEN  + TELEGRAM_CHAT_ID -> message Telegram
 
 Filtres optionnels :
+  DEPTS               départements surveillés (défaut : 75,92,93,94)
   MAX_RENT            loyer max en € (ex: 600)
   CROUS_MODES         alone,house_sharing,couple (vide = tous)
   ARPEJ_SKIP_RESTRICTED=0  inclut aussi les résidences réservées aux écoles partenaires (ignorées par défaut)
@@ -45,6 +46,10 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
 # Île-de-France : rectangle englobant (lon/lat) — celui utilisé par le site du Crous
 IDF_BOUNDS = [{"lon": 1.4462445, "lat": 49.241431}, {"lon": 3.5592208, "lat": 48.1201456}]
 IDF_DEPTS = ("75", "77", "78", "91", "92", "93", "94", "95")
+# Départements à surveiller (Crous + ARPEJ) : par défaut Paris + petite couronne
+DEPTS = tuple(d.strip() for d in (os.environ.get("DEPTS") or "75,92,93,94").split(",") if d.strip())
+# Rectangle Paris + petite couronne, utilisé seulement si une adresse Crous n'a pas de code postal
+INNER_BOX = (2.14, 48.68, 2.62, 48.99)  # lon_min, lat_min, lon_max, lat_max
 
 CROUS_BASE = "https://trouverunlogement.lescrous.fr"
 ARPEJ_BASE = "https://www.arpej.fr"
@@ -137,6 +142,15 @@ def fetch_crous():
         if MAX_RENT and rent_min and rent_min > MAX_RENT:
             continue
         res_ = it.get("residence") or {}
+        zips = re.findall(r"\b(\d{2})\s?\d{3}\b", res_.get("address", ""))
+        if zips:
+            if zips[-1] not in DEPTS:  # ex. Chartres (28) : dans le rectangle IDF mais hors zone
+                continue
+        else:
+            loc = res_.get("location") or {}
+            lon, lat = loc.get("lon"), loc.get("lat")
+            if lon is None or not (INNER_BOX[0] <= lon <= INNER_BOX[2] and INNER_BOX[1] <= lat <= INNER_BOX[3]):
+                continue
         area = (it.get("area") or {}).get("min")
         key = f"crous:{it['id']}"
         details = ", ".join(filter(None, [
@@ -168,7 +182,7 @@ def fetch_arpej():
         for r in res.get("residences", []):
             e = r.get("extra_data") or {}
             zip_code = str(e.get("zip_code", "")).strip()
-            if not zip_code.startswith(IDF_DEPTS):
+            if not zip_code.startswith(DEPTS):
                 continue
             rooms = int(e.get("available_rooms") or 0)
             if rooms <= 0 or e.get("is_bookable") is False:

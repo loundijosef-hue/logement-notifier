@@ -1,8 +1,8 @@
 # Notificateur logements Île-de-France (Crous + ARPEJ)
 
 Toutes les 10 minutes, le script vérifie :
-- **Crous** : tous les logements disponibles en Île-de-France sur trouverunlogement.lescrous.fr (Paris, Créteil, Versailles)
-- **ARPEJ** : les résidences d'Île-de-France (75, 77, 78, 91, 92, 93, 94, 95) qui ont des chambres libres
+- **Crous** : les logements disponibles sur trouverunlogement.lescrous.fr dans les départements surveillés (par défaut 75, 92, 93, 94)
+- **ARPEJ** : les résidences des départements surveillés (par défaut 75, 92, 93, 94) qui ont des chambres libres
 
 Tu reçois une notification pour chaque **nouveau logement**, avec le prix, la surface, l'adresse et le lien direct. Si tu appuies dessus, la page de réservation s'ouvre.
 
@@ -25,6 +25,7 @@ Pour Telegram en plus (optionnel) : crée un bot avec @BotFather → `TELEGRAM_B
 Filtres optionnels (onglet **Variables** au même endroit) :
 | Variable | Exemple | Effet |
 |---|---|---|
+| `DEPTS` | `75,92,93,94,91` | départements surveillés (défaut : `75,92,93,94`) |
 | `MAX_RENT` | `600` | ignore ce qui coûte plus de 600 € |
 | `CROUS_MODES` | `alone` | Crous : seul uniquement (`house_sharing` = coloc, `couple`) |
 | `ARPEJ_SKIP_RESTRICTED` | `1` | ignore les résidences ARPEJ réservées aux écoles partenaires (PSB n'en fait pas partie) |
