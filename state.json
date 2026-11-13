@@ -26,6 +26,19 @@
    "url": "https://www.arpej.fr/fr/residence/jean-francois-deniau-residence-etudiante-noisy-le-sec/",
    "warning": null
   },
+  "arpej:48708": {
+   "address": "80, avenue de la République 93300 Aubervilliers",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 647 €",
+   "region": "ARPEJ Aubervilliers",
+   "residence": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
+   "source": "ARPEJ",
+   "title": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
+   "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
+   "warning": null
+  },
   "arpej:48743": {
    "address": "35, rue Michelet 94460 Valenton",
    "count": 1,
@@ -37,6 +50,19 @@
    "source": "ARPEJ",
    "title": "Résidence Val Pompadour",
    "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
+   "warning": null
+  },
+  "arpej:48922": {
+   "address": "80, avenue de la République 93300 Aubervilliers",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 693 €",
+   "region": "ARPEJ Aubervilliers",
+   "residence": "Résidence Carmen Caron (partie Pour Etudiants)",
+   "source": "ARPEJ",
+   "title": "Résidence Carmen Caron (partie Pour Etudiants)",
+   "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-etudiante-aubervilliers/",
    "warning": null
   },
   "crous:756": {
@@ -53,5 +79,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 14:20:45"
+ "updated": "2026-11-13 14:31:02"
 }
