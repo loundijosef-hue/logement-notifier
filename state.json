@@ -13,19 +13,6 @@
    "url": "https://www.arpej.fr/fr/residence/andre-devambez-residence-etudiante-neuilly-plaisance/",
    "warning": null
   },
-  "arpej:48584": {
-   "address": "39, avenue de Saint-Germain 78560 Le Port-Marly",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 430 €",
-   "region": "ARPEJ Le Port-Marly",
-   "residence": "Résidence Alfred Sisley",
-   "source": "ARPEJ",
-   "title": "Résidence Alfred Sisley",
-   "url": "https://www.arpej.fr/fr/residence/alfred-sisley-residence-etudiante-le-port-marly/",
-   "warning": null
-  },
   "arpej:48629": {
    "address": "227, rue de Brément 93130 Noisy-le-Sec",
    "count": 1,
@@ -52,84 +39,6 @@
    "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
    "warning": null
   },
-  "arpej:48924": {
-   "address": "2, rue de la Plaine 77240 Cesson",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 623 €",
-   "region": "ARPEJ Cesson",
-   "residence": "Résidence Jean Zay (partie Pour Jeunes Actifs)",
-   "source": "ARPEJ",
-   "title": "Résidence Jean Zay (partie Pour Jeunes Actifs)",
-   "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
-   "warning": null
-  },
-  "crous:2699": {
-   "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
-   "count": 1,
-   "details": "16 m², seul",
-   "kind": "T1 · 16 m², seul",
-   "price": "348–575 €",
-   "region": "Crous Versailles",
-   "residence": "Saclay-George Sand",
-   "source": "Crous",
-   "title": "T1 — Saclay-George Sand",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2699",
-   "year": "2026/2027"
-  },
-  "crous:2704": {
-   "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
-   "count": 1,
-   "details": "75 m², seul/colocation",
-   "kind": "T5 Colocation · 75 m², seul/colocation",
-   "price": "314–405 €",
-   "region": "Crous Versailles",
-   "residence": "Saclay-George Sand",
-   "source": "Crous",
-   "title": "T5 Colocation — Saclay-George Sand",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2704",
-   "year": "2026/2027"
-  },
-  "crous:2867": {
-   "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
-   "count": 1,
-   "details": "26 m², seul",
-   "kind": "T1 bis · 26 m², seul",
-   "price": "420–560 €",
-   "region": "Crous Versailles",
-   "residence": "Evry-Le Bois Guillaume",
-   "source": "Crous",
-   "title": "T1 bis — Evry-Le Bois Guillaume",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2867",
-   "year": "2026/2027"
-  },
-  "crous:3006": {
-   "address": "Bâtiment 470 Domaine de l’université de Paris Saclay Rue du château 91400 Orsay",
-   "count": 1,
-   "details": "77 m², colocation/seul",
-   "kind": "T5 Colocation-4 · 77 m², colocation/seul",
-   "price": "367 €",
-   "region": "Crous Versailles",
-   "residence": "Orsay-Georges Charpak",
-   "source": "Crous",
-   "title": "T5 Colocation-4 — Orsay-Georges Charpak",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/3006",
-   "year": "2026/2027"
-  },
-  "crous:69": {
-   "address": "1 Impasse de la Predecelle 91000 EVRY",
-   "count": 1,
-   "details": "18 m², seul",
-   "kind": "T 1 · 18 m², seul",
-   "price": "391 €",
-   "region": "Crous Versailles",
-   "residence": "Evry- Aunettes",
-   "source": "Crous",
-   "title": "T 1 — Evry- Aunettes",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/69",
-   "year": "2026/2027"
-  },
   "crous:756": {
    "address": "79 Rue Edouard Renard 93000 BOBIGNY",
    "count": 1,
@@ -144,5 +53,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 13:20:45"
+ "updated": "2026-11-13 13:30:56"
 }
