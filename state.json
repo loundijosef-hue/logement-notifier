@@ -65,18 +65,18 @@
    "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
    "warning": null
   },
-  "arpej:54768": {
-   "address": "42 Boulevard de la République 92250 La Garenne-Colombes",
+  "crous:1714": {
+   "address": "8, place François Rabelais 28000 CHARTRES",
    "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 427 €",
-   "region": "ARPEJ La Garenne-Colombes",
-   "residence": "Résidence Raymond Aron",
-   "source": "ARPEJ",
-   "title": "Résidence Raymond Aron",
-   "url": "https://www.arpej.fr/fr/residence/la-garenne-colombes/",
-   "warning": null
+   "details": "18 m², seul",
+   "kind": "T1 18 à 19m2 · 18 m², seul",
+   "price": "328 €",
+   "region": "Crous ORLEANS-TOURS",
+   "residence": "MERLEAU PONTY",
+   "source": "Crous",
+   "title": "T1 18 à 19m2 — MERLEAU PONTY",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1714",
+   "year": "2026/2027"
   },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
@@ -170,5 +170,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 10:01:13"
+ "updated": "2026-11-13 10:10:43"
 }
