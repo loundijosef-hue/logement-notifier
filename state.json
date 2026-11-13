@@ -65,6 +65,32 @@
    "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
    "warning": null
   },
+  "crous:1583": {
+   "address": "25/27 rue des Bas-Bourgs 28000 CHARTRES",
+   "count": 1,
+   "details": "32 m², colocation",
+   "kind": "T1 bis 32m2 · 32 m², colocation",
+   "price": "246 €",
+   "region": "Crous ORLEANS-TOURS",
+   "residence": "JEAN ZAY",
+   "source": "Crous",
+   "title": "T1 bis 32m2 — JEAN ZAY",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1583",
+   "year": "2026/2027"
+  },
+  "crous:1714": {
+   "address": "8, place François Rabelais 28000 CHARTRES",
+   "count": 1,
+   "details": "18 m², seul",
+   "kind": "T1 18 à 19m2 · 18 m², seul",
+   "price": "328 €",
+   "region": "Crous ORLEANS-TOURS",
+   "residence": "MERLEAU PONTY",
+   "source": "Crous",
+   "title": "T1 18 à 19m2 — MERLEAU PONTY",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1714",
+   "year": "2026/2027"
+  },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
    "count": 1,
@@ -155,7 +181,20 @@
    "title": "T2 Couple — Frida Kahlo",
    "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/756",
    "year": "2026/2027"
+  },
+  "crous:792": {
+   "address": "8 allée de l'Université 92000 Nanterre",
+   "count": 1,
+   "details": "18 m², seul",
+   "kind": "Studio 2 · 18 m², seul",
+   "price": "430 €",
+   "region": "Crous Versailles",
+   "residence": "Nanterre",
+   "source": "Crous",
+   "title": "Studio 2 — Nanterre",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/792",
+   "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 10:50:49"
+ "updated": "2026-11-13 11:01:11"
 }
