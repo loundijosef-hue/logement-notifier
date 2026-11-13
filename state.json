@@ -91,19 +91,6 @@
    "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2704",
    "year": "2026/2027"
   },
-  "crous:2862": {
-   "address": "20, cour Pierre Vasseur 91120 - PALAISEAU",
-   "count": 1,
-   "details": "69 m², colocation",
-   "kind": "T5 Colocation DUPLEX · 69 m², colocation",
-   "price": "353–358 €",
-   "region": "Crous Versailles",
-   "residence": "Saclay-Jean d'Ormesson",
-   "source": "Crous",
-   "title": "T5 Colocation DUPLEX — Saclay-Jean d'Ormesson",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/2862",
-   "year": "2026/2027"
-  },
   "crous:2867": {
    "address": "18 rue du Bois Guillaume 91000 Evry Courcouronnes",
    "count": 1,
@@ -157,5 +144,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 12:50:41"
+ "updated": "2026-11-13 13:01:09"
 }
