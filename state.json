@@ -65,19 +65,6 @@
    "url": "https://www.arpej.fr/fr/residence/jean-zay-residence-jeunes-actifs-cesson/",
    "warning": null
   },
-  "crous:1714": {
-   "address": "8, place François Rabelais 28000 CHARTRES",
-   "count": 1,
-   "details": "18 m², seul",
-   "kind": "T1 18 à 19m2 · 18 m², seul",
-   "price": "328 €",
-   "region": "Crous ORLEANS-TOURS",
-   "residence": "MERLEAU PONTY",
-   "source": "Crous",
-   "title": "T1 18 à 19m2 — MERLEAU PONTY",
-   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/1714",
-   "year": "2026/2027"
-  },
   "crous:2699": {
    "address": "16, rue André Blanc Lapierre 91190 GIF-SUR-YVETTE",
    "count": 1,
@@ -170,5 +157,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 10:20:41"
+ "updated": "2026-11-13 10:30:53"
 }
