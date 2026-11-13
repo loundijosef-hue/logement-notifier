@@ -28,9 +28,9 @@
   },
   "arpej:48708": {
    "address": "80, avenue de la République 93300 Aubervilliers",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
+   "count": 2,
+   "details": "2 chambre(s) dispo",
+   "kind": "2 chambre(s) dispo",
    "price": "dès 647 €",
    "region": "ARPEJ Aubervilliers",
    "residence": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
@@ -66,5 +66,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-13 14:40:43"
+ "updated": "2026-11-13 14:50:45"
 }
