@@ -25,7 +25,20 @@
    "title": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
    "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
    "warning": null
+  },
+  "arpej:48823": {
+   "address": "30, rue des Fillettes 93300 Aubervilliers",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 442 €",
+   "region": "ARPEJ Aubervilliers",
+   "residence": "Résidence Alpha",
+   "source": "ARPEJ",
+   "title": "Résidence Alpha",
+   "url": "https://www.arpej.fr/fr/residence/alpha-residence-etudiante-aubervilliers/",
+   "warning": null
   }
  },
- "updated": "2026-11-16 17:20:44"
+ "updated": "2026-11-16 17:30:58"
 }
