@@ -1,5 +1,18 @@
 {
  "seen": {
+  "arpej:48683": {
+   "address": "34-36, avenue de la division Leclerc 94230 Cachan",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 440 €",
+   "region": "ARPEJ Cachan",
+   "residence": "Résidence Volti",
+   "source": "ARPEJ",
+   "title": "Résidence Volti",
+   "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
+   "warning": null
+  },
   "arpej:48708": {
    "address": "80, avenue de la République 93300 Aubervilliers",
    "count": 1,
@@ -12,20 +25,7 @@
    "title": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
    "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
    "warning": null
-  },
-  "arpej:48718": {
-   "address": "2, carrefour du Général de Gaulle 94380 Bonneuil-sur-Marne",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 431 €",
-   "region": "ARPEJ Bonneuil-sur-Marne",
-   "residence": "Résidence Pierre Bourdieu",
-   "source": "ARPEJ",
-   "title": "Résidence Pierre Bourdieu",
-   "url": "https://www.arpej.fr/fr/residence/pierre-bourdieu-residence-etudiante-bonneuil-sur-marne/",
-   "warning": null
   }
  },
- "updated": "2026-11-16 11:50:43"
+ "updated": "2026-11-16 12:01:12"
 }
