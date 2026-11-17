@@ -38,7 +38,20 @@
    "title": "Résidence Alpha",
    "url": "https://www.arpej.fr/fr/residence/alpha-residence-etudiante-aubervilliers/",
    "warning": null
+  },
+  "arpej:50433": {
+   "address": "30, avenue Marcelin Berthelot 92190 Meudon",
+   "count": 2,
+   "details": "2 chambre(s) dispo",
+   "kind": "2 chambre(s) dispo",
+   "price": "dès 601 €",
+   "region": "ARPEJ Meudon",
+   "residence": "Résidence Berthelot",
+   "source": "ARPEJ",
+   "title": "Résidence Berthelot",
+   "url": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
+   "warning": null
   }
  },
- "updated": "2026-11-17 09:20:45"
+ "updated": "2026-11-17 09:30:58"
 }
