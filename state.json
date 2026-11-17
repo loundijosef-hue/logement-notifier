@@ -51,7 +51,33 @@
    "title": "Résidence Alpha",
    "url": "https://www.arpej.fr/fr/residence/alpha-residence-etudiante-aubervilliers/",
    "warning": null
+  },
+  "arpej:48920": {
+   "address": "9, place Jean Jaurès 93100 Montreuil",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 556 €",
+   "region": "ARPEJ Montreuil",
+   "residence": "Résidence Frida Kahlo",
+   "source": "ARPEJ",
+   "title": "Résidence Frida Kahlo",
+   "url": "https://www.arpej.fr/fr/residence/frida-kahlo-residence-etudiante-montreuil/",
+   "warning": null
+  },
+  "crous:3119": {
+   "address": "132 avenue de la Division Leclerc 93430 VILLETANEUSE",
+   "count": 1,
+   "details": "18 m², seul",
+   "kind": "Studio · 18 m², seul",
+   "price": "491 €",
+   "region": "Crous Créteil",
+   "residence": "Villetaneuse - Gisèle Halimi",
+   "source": "Crous",
+   "title": "Studio — Villetaneuse - Gisèle Halimi",
+   "url": "https://trouverunlogement.lescrous.fr/tools/48/accommodations/3119",
+   "year": "2026/2027"
   }
  },
- "updated": "2026-11-17 10:40:43"
+ "updated": "2026-11-17 10:50:44"
 }
