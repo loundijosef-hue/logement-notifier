@@ -1,5 +1,18 @@
 {
  "seen": {
+  "arpej:48598": {
+   "address": "13, rue de Chanzy 92000 Nanterre",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 483 €",
+   "region": "ARPEJ Nanterre",
+   "residence": "Résidence Chanzy",
+   "source": "ARPEJ",
+   "title": "Résidence Chanzy",
+   "url": "https://www.arpej.fr/fr/residence/chanzy-residence-etudiante-nanterre/",
+   "warning": null
+  },
   "arpej:48683": {
    "address": "34-36, avenue de la division Leclerc 94230 Cachan",
    "count": 1,
@@ -53,5 +66,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-17 09:30:58"
+ "updated": "2026-11-17 09:40:46"
 }
