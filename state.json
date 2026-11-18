@@ -13,19 +13,6 @@
    "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
    "warning": null
   },
-  "arpej:48708": {
-   "address": "80, avenue de la République 93300 Aubervilliers",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 647 €",
-   "region": "ARPEJ Aubervilliers",
-   "residence": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
-   "source": "ARPEJ",
-   "title": "Résidence Carmen Caron (partie Pour Jeunes Actifs)",
-   "url": "https://www.arpej.fr/fr/residence/carmen-caron-residence-jeunes-actifs-aubervilliers/",
-   "warning": null
-  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -53,5 +40,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-18 14:30:58"
+ "updated": "2026-11-18 14:40:55"
 }
