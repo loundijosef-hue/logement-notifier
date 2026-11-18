@@ -1,18 +1,5 @@
 {
  "seen": {
-  "arpej:48683": {
-   "address": "34-36, avenue de la division Leclerc 94230 Cachan",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 440 €",
-   "region": "ARPEJ Cachan",
-   "residence": "Résidence Volti",
-   "source": "ARPEJ",
-   "title": "Résidence Volti",
-   "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
-   "warning": null
-  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -27,5 +14,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-18 15:40:45"
+ "updated": "2026-11-18 15:50:45"
 }
