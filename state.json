@@ -1,18 +1,5 @@
 {
  "seen": {
-  "arpej:48835": {
-   "address": "3 avenue Léonard de Vinci  92400 Courbevoie",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 523 €",
-   "region": "ARPEJ Courbevoie",
-   "residence": "Résidence Jacques-Henri Lartigue",
-   "source": "ARPEJ",
-   "title": "Résidence Jacques-Henri Lartigue",
-   "url": "https://www.arpej.fr/fr/residence/jacques-henri-lartigue-residence-etudiante-courbevoie/",
-   "warning": null
-  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -27,5 +14,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-19 10:10:41"
+ "updated": "2026-11-19 10:20:41"
 }
