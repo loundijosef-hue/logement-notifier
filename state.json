@@ -78,6 +78,19 @@
    "url": "https://www.arpej.fr/fr/residence/etudiante-pierre-vidal-naquet-saint-denis/",
    "warning": null
   },
+  "arpej:55500": {
+   "address": "9 avenue Lénine  93380 Pierrefitte-sur-Seine",
+   "count": 1,
+   "details": "1 chambre(s) dispo, Studio, T1, T2",
+   "kind": "1 chambre(s) dispo · Studio, T1, T2",
+   "price": "dès 443 €",
+   "region": "ARPEJ Pierrefitte-sur-Seine",
+   "residence": "Résidence Julie Potier",
+   "source": "ARPEJ",
+   "title": "Résidence Julie Potier",
+   "url": "https://www.arpej.fr/fr/residence/pierrefitte-sur-seine/",
+   "warning": null
+  },
   "crous:2402": {
    "address": "23 avenue de la Convention 93000 BOBIGNY",
    "count": 1,
@@ -92,5 +105,5 @@
    "year": "2026/2027"
   }
  },
- "updated": "2026-11-24 14:01:06"
+ "updated": "2026-11-24 14:10:44"
 }
