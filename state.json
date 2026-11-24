@@ -13,6 +13,19 @@
    "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
    "warning": null
   },
+  "arpej:48743": {
+   "address": "35, rue Michelet 94460 Valenton",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 588 €",
+   "region": "ARPEJ Valenton",
+   "residence": "Résidence Val Pompadour",
+   "source": "ARPEJ",
+   "title": "Résidence Val Pompadour",
+   "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
+   "warning": null
+  },
   "arpej:48809": {
    "address": "62, rue Edouard Vaillant 93100 Montreuil",
    "count": 1,
@@ -92,5 +105,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-24 15:20:55"
+ "updated": "2026-11-24 15:31:00"
 }
