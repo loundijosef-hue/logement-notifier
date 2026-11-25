@@ -52,6 +52,19 @@
    "url": "https://www.arpej.fr/fr/residence/frida-kahlo-residence-etudiante-montreuil/",
    "warning": null
   },
+  "arpej:50433": {
+   "address": "30, avenue Marcelin Berthelot 92190 Meudon",
+   "count": 2,
+   "details": "2 chambre(s) dispo",
+   "kind": "2 chambre(s) dispo",
+   "price": "dès 601 €",
+   "region": "ARPEJ Meudon",
+   "residence": "Résidence Berthelot",
+   "source": "ARPEJ",
+   "title": "Résidence Berthelot",
+   "url": "https://www.arpej.fr/fr/residence/berthelot-residence-chercheurs-meudon/",
+   "warning": null
+  },
   "arpej:53194": {
    "address": "63 avenue de Stalingrad  93200 Saint-Denis",
    "count": 1,
@@ -79,5 +92,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-25 11:50:41"
+ "updated": "2026-11-25 12:01:12"
 }
