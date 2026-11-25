@@ -65,32 +65,6 @@
    "url": "https://www.arpej.fr/fr/residence/frida-kahlo-residence-etudiante-montreuil/",
    "warning": null
   },
-  "arpej:50395": {
-   "address": "111, boulevard Camélinat 92230 Gennevilliers",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 566 €",
-   "region": "ARPEJ Gennevilliers",
-   "residence": "Résidence Larose",
-   "source": "ARPEJ",
-   "title": "Résidence Larose",
-   "url": "https://www.arpej.fr/fr/residence/residence-etudiante-larose-gennevilliers/",
-   "warning": null
-  },
-  "arpej:50401": {
-   "address": "1, rue Félicie 92230 Gennevilliers",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 554 €",
-   "region": "ARPEJ Gennevilliers",
-   "residence": "Résidence Baudin",
-   "source": "ARPEJ",
-   "title": "Résidence Baudin",
-   "url": "https://www.arpej.fr/fr/residence/residence-etudiante-baudin-gennevilliers/",
-   "warning": null
-  },
   "arpej:53194": {
    "address": "63 avenue de Stalingrad  93200 Saint-Denis",
    "count": 1,
@@ -118,5 +92,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-25 10:01:09"
+ "updated": "2026-11-25 10:10:48"
 }
