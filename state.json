@@ -26,6 +26,19 @@
    "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
    "warning": null
   },
+  "arpej:48754": {
+   "address": "69 bis - 71, rue de la République 93100 Montreuil",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 566 €",
+   "region": "ARPEJ Montreuil",
+   "residence": "Résidence Le Rodrigue",
+   "source": "ARPEJ",
+   "title": "Résidence Le Rodrigue",
+   "url": "https://www.arpej.fr/fr/residence/le-rodrigue-residence-etudiante-montreuil/",
+   "warning": null
+  },
   "arpej:48809": {
    "address": "62, rue Edouard Vaillant 93100 Montreuil",
    "count": 1,
@@ -66,5 +79,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-25 14:20:44"
+ "updated": "2026-11-25 14:30:58"
 }
