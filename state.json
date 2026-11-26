@@ -28,9 +28,9 @@
   },
   "arpej:48725": {
    "address": "2, boulevard Pablo Picasso 94000 Créteil",
-   "count": 2,
-   "details": "2 chambre(s) dispo",
-   "kind": "2 chambre(s) dispo",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
    "price": "dès 413 €",
    "region": "ARPEJ Créteil",
    "residence": "Résidence Les Choux",
@@ -53,5 +53,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-26 15:10:44"
+ "updated": "2026-11-26 15:20:47"
 }
