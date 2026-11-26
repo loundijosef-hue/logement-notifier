@@ -26,6 +26,19 @@
    "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
    "warning": null
   },
+  "arpej:48725": {
+   "address": "2, boulevard Pablo Picasso 94000 Créteil",
+   "count": 2,
+   "details": "2 chambre(s) dispo",
+   "kind": "2 chambre(s) dispo",
+   "price": "dès 413 €",
+   "region": "ARPEJ Créteil",
+   "residence": "Résidence Les Choux",
+   "source": "ARPEJ",
+   "title": "Résidence Les Choux",
+   "url": "https://www.arpej.fr/fr/residence/les-choux-de-creteil-residence-etudiante/",
+   "warning": null
+  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -40,5 +53,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-26 14:20:45"
+ "updated": "2026-11-26 14:30:38"
 }
