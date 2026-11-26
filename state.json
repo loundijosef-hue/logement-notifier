@@ -39,6 +39,19 @@
    "url": "https://www.arpej.fr/fr/residence/les-choux-de-creteil-residence-etudiante/",
    "warning": null
   },
+  "arpej:48743": {
+   "address": "35, rue Michelet 94460 Valenton",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 588 €",
+   "region": "ARPEJ Valenton",
+   "residence": "Résidence Val Pompadour",
+   "source": "ARPEJ",
+   "title": "Résidence Val Pompadour",
+   "url": "https://www.arpej.fr/fr/residence/val-pompadour-residence-etudiante-valenton/",
+   "warning": null
+  },
   "arpej:48920": {
    "address": "9, place Jean Jaurès 93100 Montreuil",
    "count": 1,
@@ -53,5 +66,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-26 16:31:00"
+ "updated": "2026-11-26 16:40:48"
 }
