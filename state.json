@@ -26,19 +26,6 @@
    "url": "https://www.arpej.fr/fr/residence/les-bords-de-seine-residence-etudiante-alfortville/",
    "warning": null
   },
-  "arpej:48725": {
-   "address": "2, boulevard Pablo Picasso 94000 Créteil",
-   "count": 1,
-   "details": "1 chambre(s) dispo",
-   "kind": "1 chambre(s) dispo",
-   "price": "dès 413 €",
-   "region": "ARPEJ Créteil",
-   "residence": "Résidence Les Choux",
-   "source": "ARPEJ",
-   "title": "Résidence Les Choux",
-   "url": "https://www.arpej.fr/fr/residence/les-choux-de-creteil-residence-etudiante/",
-   "warning": null
-  },
   "arpej:48743": {
    "address": "35, rue Michelet 94460 Valenton",
    "count": 1,
@@ -66,5 +53,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-27 10:10:49"
+ "updated": "2026-11-27 10:20:46"
 }
