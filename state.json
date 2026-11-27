@@ -13,6 +13,19 @@
    "url": "https://www.arpej.fr/fr/residence/volti-residence-etudiante-cachan/",
    "warning": null
   },
+  "arpej:48715": {
+   "address": "5, quai Blanqui 94140 Alfortville",
+   "count": 1,
+   "details": "1 chambre(s) dispo",
+   "kind": "1 chambre(s) dispo",
+   "price": "dès 542 €",
+   "region": "ARPEJ Alfortville",
+   "residence": "Résidence Les Bords De Seine",
+   "source": "ARPEJ",
+   "title": "Résidence Les Bords De Seine",
+   "url": "https://www.arpej.fr/fr/residence/les-bords-de-seine-residence-etudiante-alfortville/",
+   "warning": null
+  },
   "arpej:48725": {
    "address": "2, boulevard Pablo Picasso 94000 Créteil",
    "count": 1,
@@ -53,5 +66,5 @@
    "warning": null
   }
  },
- "updated": "2026-11-27 09:40:45"
+ "updated": "2026-11-27 09:50:43"
 }
